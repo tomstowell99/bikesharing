@@ -3,6 +3,8 @@
 ## Purpose
   We are reviewing the bike sharing data for the city of New York. We believe this data will give us insight into the feasability for establishing a bike sharing business in Des Moines. We relalize the cities or not of the same size and the market size will be different but we feel the Des Moines and New York city customers may share many similarities.
   
+  [link to dashboard](https://public.tableau.com/app/profile/tom.stowell8009/viz/BikeChallenge_16566902237420/BikeChallengeStory?publish=yes)
+  
   ## Trip Durations of customers. 
   
     As you can see from the chart below. our customers rarely check out our bikes for short durations of time. Although not shown on
